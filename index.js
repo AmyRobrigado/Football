@@ -60,18 +60,6 @@ function getTeamFromCode(t, c) {
   return null; // Intentional absence of any object value
 }
 
-// function selectBtnOnClick()
-// {
-//   const teamSelect = document.getElementById("teamSelect");
-//   teamSelect.code = "DAL";
-
-//   let length = teamSelect.options.length;
-//   for (let i = 0;i < length; i++)
-//   {
-//     if (teamSelect.options[i].name == .code)
-//   }
-// }
-
 
 
 
